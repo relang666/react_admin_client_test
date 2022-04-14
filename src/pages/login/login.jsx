@@ -124,7 +124,7 @@ export default class Login extends Component {
 
                         <Form.Item>
                             <Button type="primary" htmlType="submit" className="login-form-button">
-                                登录
+                                登录测试
                             </Button>
                         </Form.Item>
                     </Form>
